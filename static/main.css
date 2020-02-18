@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+#spinner{
+	display:none;
+}
+
+#output{
+	margin:1em;
+}
+
+td img{
+	height:1em;
+}
+
+td,th{
+	background-color:#F0F0FF;
+}
+
+td:nth-child(4){
+	text-align:center;
+}
