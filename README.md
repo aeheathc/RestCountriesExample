@@ -1,5 +1,5 @@
 # RestCountriesExample
-Example implementation for Rest Countries API using an AJAX frontend and having the API calls on the server in PHP.
+Example implementation for Rest Countries API using a React "single page app" frontend which makes AJAX calls to server side code in PHP, which in turn uses Rest Countries API via cURL.
 ## How to Use
 With PHP installed and its folder in your shell's PATH, run `runPhpBuiltinServer.bat` then the example will be live at `http://localhost:8000/` .
 If you wish to run the command from the bat file manually instead of running the bat file, just be sure to do it in the same directory.

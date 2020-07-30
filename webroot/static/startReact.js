@@ -1,0 +1,1 @@
+ReactDOM.render(React.createElement(CountryGUI, null), document.getElementById('countryGUI'));
